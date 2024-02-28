@@ -1,1 +1,2 @@
 # AI-Program-by-Samsung-Innovation-Campus
+Facial Image Analysis for Early Autisim Detection in children It is a platform that allows for attaching a picture of the suspected child to determine whether they are affected or not by autism. In essence, the work involves developing a tool that aids in diagnosing the early stages of  ASD ‘Autism Spectrum Disorder ‘using deep learning algorithm. The model has shown good performance with high accuracy.
